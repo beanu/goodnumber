@@ -1,0 +1,19 @@
+.weui-msg__tips-area {
+    padding: 16px;
+}
+
+.weui-msg__tips {
+
+    font-size: 12px;
+    color: #888888;
+}
+
+.gAddress {
+
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+.radio {
+    display: inline-flex;
+}
